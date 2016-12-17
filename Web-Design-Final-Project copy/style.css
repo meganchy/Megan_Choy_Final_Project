@@ -2,6 +2,7 @@ body {
    font-family: 'Merriweather', serif; 
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
     
 }
 
@@ -94,4 +95,5 @@ img {
     display: block;
     margin: auto;
     width: 40%;
+    opacity: 0.9;
 }
